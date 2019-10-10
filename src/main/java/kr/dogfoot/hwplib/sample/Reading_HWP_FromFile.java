@@ -1,9 +1,9 @@
 package kr.dogfoot.hwplib.sample;
 
-import kr.dogfoot.hwplib.object.HWPFile;
-import kr.dogfoot.hwplib.reader.HWPReader;
+        import kr.dogfoot.hwplib.object.HWPFile;
+        import kr.dogfoot.hwplib.reader.HWPReader;
 
-import java.io.File;
+        import java.io.File;
 
 /**
  * 파잂 읽기 테스트 프로그램.
